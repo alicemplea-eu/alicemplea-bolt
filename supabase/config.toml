@@ -1,0 +1,4 @@
+project_id = "dtwnegzgiibqbxmmladg"
+
+[functions.live-jobs]
+verify_jwt = false
